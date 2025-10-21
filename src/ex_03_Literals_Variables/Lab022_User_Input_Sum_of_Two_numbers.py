@@ -7,7 +7,7 @@
 
 #Step1:
 #I/P -> num1, num2 -> int
-#O/P -> sum, mul, div (data type of the output - Always ask from the interviewer). Now given, float
+#O/P -> sum, mul, div (data type of the output - Always ask from the interviewer). Say given, float
 
 # Note: If the input type is int or decimal, float will accept all. Hence, we chose float type to define the input type
 
