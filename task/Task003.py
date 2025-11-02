@@ -21,7 +21,7 @@ radius = float(input("Enter radius of the circle:\n"))
 # area_of_circle = 3.14 * pow(radius,2)
 area_of_circle = math.pi * pow(radius,2)
 
-print("The Area of circle is: ", area_of_circle)
+# print("The Area of circle is: ", area_of_circle)
 
 # String data formatting (or) Python f-strings (or) formatted String literals
 print(f"The Area of circle is -> {area_of_circle:.2f}")
