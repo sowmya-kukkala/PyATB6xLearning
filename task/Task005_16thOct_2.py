@@ -6,8 +6,8 @@
 # ✅ Test Passed – Title matches
 # True - why >  Strip and convert them into the lowercase = both of them are equal.
 
-expected_title = input("Enter the expected title: ")
-actual_title = input("Enter the actual title: ")
+expected_title = "Dashboard"
+actual_title = "Dashboard "
 
 if expected_title.strip().lower() == actual_title.strip().lower():
     print("✅ Test Passed – Title matches")

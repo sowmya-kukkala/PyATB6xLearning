@@ -5,7 +5,5 @@ response_code = int(input("Enter your response code: ").strip())
 
 if response_code == 200:
     print("✅ Passed API Request")
-elif response_code == 404:
-    print("❌ Failed API Request")
 else:
-    print("Provide a valid response code")
+    print("❌ Failed API Request")
