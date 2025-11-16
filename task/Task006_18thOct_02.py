@@ -21,4 +21,21 @@ while attempt <= max_attempts:
 else:
     print("❌ API call failed after 3 attempts")
 
+# Provided Task during the class
+
+# attempt = 1
+# max_attempt = 3
+# response = None
+#
+# while attempt <= max_attempt:
+#     response = int(input("Enter the Response"))
+#     if response == 200:
+#         print("✅ Test Passed")
+#         break
+#     else:
+#         attempt = attempt + 1
+#
+# if response != 200:
+#     print("❌ Test Failed after 3 attempts.")
+
 
