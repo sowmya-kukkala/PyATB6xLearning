@@ -11,6 +11,7 @@ def sides_of_triangle(side1, side2, side3):
     else:
         return "Scalene Triangle"
 
+
 result = sides_of_triangle(int(input("Enter side1 value: ")),
                            int(input("Enter side2 value: ")),
                            int(input("Enter side3 value: ")))
