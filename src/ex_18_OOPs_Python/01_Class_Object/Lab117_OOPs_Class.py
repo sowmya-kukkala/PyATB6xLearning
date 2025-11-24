@@ -1,6 +1,7 @@
 class Person:
     # pass   # defined to represent it doesn't have anything to execute
     # Attributes
+    # None can be used for any data type. Since Python is a dynamic language
     name = None
     id = None
     age = None
