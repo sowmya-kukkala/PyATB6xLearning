@@ -1,6 +1,6 @@
-# Note: Pip is a package manager. At the time we install Python, pip will come along with it
-# Go to Terminal, (.venv) PS C:\Users\Sowmya\PycharmProjects\PyATB6xLearning> pip install dotenv
-# dotenv library helps to read the values from .env file
+# # Note: Pip is a package manager. At the time we install Python, pip will come along with it
+# # Go to Terminal, (.venv) PS C:\Users\Sowmya\PycharmProjects\PyATB6xLearning> pip install dotenv
+# # dotenv library helps to read the values from .env file
 
 from dotenv import load_dotenv
 import os
