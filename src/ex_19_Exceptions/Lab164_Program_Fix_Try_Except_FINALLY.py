@@ -1,0 +1,16 @@
+try:
+    a = int(input("Enter num 1: "))
+    b = int(input("Enter num 2: "))
+    c = a / b
+    print(c)
+except ValueError:
+    print("Value Error")
+except ZeroDivisionError:
+    print("Zero Division Error")
+finally:
+    print("I will always be executed!")
+
+# Note: Whether the exception got caught or not. Finally block will be executed by default
+
+
+
